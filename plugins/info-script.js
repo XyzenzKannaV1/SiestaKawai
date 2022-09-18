@@ -11,7 +11,7 @@ https://github.com/XyzenzKannaV1
 Pengen yang udah di recode oleh owner?
 Script bot ini dijual bila kalian mau bisa chat owner
 
-wa.me/6283112831544`
+wa.me/6283866366437`
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Thankyou','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
