@@ -118,8 +118,8 @@ global.author = '                「 SiestaBotzz  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://ibb.co/7z4y8tk/kannchan.jpg' //Main Thumbnail
-global.imagebot = 'https://ibb.co/7z4y8tk/kannachan.jpg'
+global.thumb = 'https://ibb.co/7z4y8tk/kanna.jpg' //Main Thumbnail
+global.imagebot = 'https://ibb.co/7z4y8tk/kanna.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
 global.fla = 'https://ibb.co/7z4y8tk/kannachan.jpg'
