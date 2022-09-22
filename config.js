@@ -118,11 +118,11 @@ global.author = '                「 SiestaBotzz  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://ibb.co/7z4y8tk/kanna.jpg' //Main Thumbnail
-global.imagebot = 'https://ibb.co/7z4y8tk/kanna.jpg'
+global.thumb = 'https://i.ibb.co/PFGbMMp/images-23.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/PFGbMMp/images-23.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://ibb.co/7z4y8tk/kannachan.jpg'
+global.thumbs = ['https://i.ibb.co/PFGbMMp/images-23.jpg']
+global.fla = 'https://i.ibb.co/PFGbMMp/images-23.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
